@@ -1,0 +1,14 @@
+streamlit
+pymupdf
+langchain
+chromadb
+sentence-transformers
+faiss-cpu
+openai
+pytesseract
+opencv-python-headless
+psutil
+nltk
+pandas
+numpy
+tiktoken
